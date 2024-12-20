@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+
+- 👯 I’m looking to collaborate on ...
+  Fullstack projects
+
+- 🌱 I’m currently learning ...
+    Golang
+
+- 💬 Ask me about ...
+   Javascript, React, NextJs, AWS services
+
+
+
+      
 <!--
 **Suraj370/Suraj370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
