@@ -5,7 +5,7 @@
   Fullstack projects
 
 - 🌱 I’m currently learning ...
-    Golang
+    Springboot
 
 - 💬 Ask me about ...
    Javascript, React, NextJs, AWS services
