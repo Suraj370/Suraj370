@@ -4,8 +4,7 @@
 - 👯 I’m looking to collaborate on ...
   Fullstack projects
 
-- 🌱 I’m currently learning ...
-    Springboot
+  
 
 - 💬 Ask me about ...
    Javascript, React, NextJs, AWS services
